@@ -19,14 +19,6 @@ public class MainController {
         model.addAttribute("title", "About us");
         return "about";
     }
-//
-//    @GetMapping("/bakhtiyor")
-//    public String bakhtiyor(Model model) {
-//        model.addAttribute("title", "Bakhtiyor");
-//        return "bakhtiyor";
-//    }
-//
-
 
 }
 
